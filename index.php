@@ -51,7 +51,7 @@
                             <a href="#about">About</a>
                         </li>                    
                         <li class="page-scroll">
-                            <a href="#re-routing">Re-Routing</a>
+                            <a href="#reroute">Re-Routing</a>
                         </li>
                         <li class="page-scroll" id="contribute-toggle">
                             <a href="#contribute">Contribute</a>
