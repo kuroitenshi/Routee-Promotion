@@ -357,6 +357,19 @@ body {
     -o-background-size: cover;
 }
 
+#reroute {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    background: url(../img/about-bg.jpg) no-repeat bottom center scroll;
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
 .contribute-section {    
     width: 100%;        
     text-align: center;

@@ -123,6 +123,28 @@
             </section>
         </div>
         <!--RE ROUTING SECTION-->
+        <section id="reroute" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <h2>Reroute</h2>
+                <div class="col-lg-6">
+                        
+                        <p>Do you need to find your way going to places you'd </p>
+                        <p>like to go without the potential hassle of clogged </p>
+                        <p>   roads? Rerouting is what you're looking for!</p>
+                        <br><br>
+                        <p>Routee provides highly advanced re-reouting algorithms</p>
+                        <p>that can avoid nuiances on the road such as accidents,</p>
+                        <p> floods, constructions, heavy traffic, and many more!</p>
+                   
+                </div>
+                
+                <div class="col-lg-6">
+                   <img id='avoid' src='img/avoid.png' alt='Failed to load image'>  
+                </div>
+            </div>
+        </div>
+        </section>
 
 
         <!--CONTRIBUTE SECTION-->
