@@ -86,7 +86,7 @@
             <section id="about" class="container about-section  text-center">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h2>About Routee</h2>
+                        <h2>What is Routee?</h2>
                         <p>Routee is a crowd-sourcing web application designed for drivers in the Philippines that experience the daily grind of  hectic road jams and hellish traffic. Routee is one of the budding web applications designed to assist in alleviating problems on the road but here are the reasons on why you should pick Routee:</p>
 
                         <div class="media">
@@ -94,7 +94,7 @@
                                 <img class="media-object" src="img/check1.png">
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Avert from being late to important occassions caused by clogged roads.</h4>
+                                <h4 class="media-heading">Avert from being late to important occasions caused by clogged roads.</h4>
                             </div>
                             <br>
                             <br>
@@ -123,29 +123,29 @@
             </section>
         </div>
         <!--RE ROUTING SECTION-->
-        <section id="reroute" class="content-section text-center">
-        <div class="container">
-            <div class="row">
-                <h2>Reroute</h2>
-                <div class="col-lg-6">
-                        
+        <section id="reroute" class="text-center">
+            <div class="container">
+                <div class="row">
+                    <h2>Stuck and don't know where to go?</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5">
                         <p>Do you need to find your way going to places you'd </p>
                         <p>like to go without the potential hassle of clogged </p>
                         <p>   roads? Rerouting is what you're looking for!</p>
                         <br><br>
-                        <p>Routee provides highly advanced re-reouting algorithms</p>
-                        <p>that can avoid nuiances on the road such as accidents,</p>
+                        <p>Routee provides highly advanced re-routing algorithms</p>
+                        <p>that can avoid nuisances on the road such as accidents,</p>
                         <p> floods, constructions, heavy traffic, and many more!</p>
-                   
-                </div>
-                
-                <div class="col-lg-6">
-                   <img id='avoid' src='img/avoid.png' alt='Failed to load image'>  
+                    </div>
+                    <div class="col-lg-7">
+                        <img id='avoid' src='img/avoid.png' alt='Failed to load image'>
+                    </div>
+
                 </div>
             </div>
-        </div>
-        </section>
 
+        </section>
 
         <!--CONTRIBUTE SECTION-->
         <section id="contribute" class="contribute-content">
