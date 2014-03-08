@@ -411,3 +411,12 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+#avoid {
+	width:100%;
+	height: auto;
+}
+
+#reroute-body{
+	padding-top:65px;
+}

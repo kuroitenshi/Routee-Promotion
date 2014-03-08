@@ -125,18 +125,14 @@
         <!--RE ROUTING SECTION-->
         <section id="reroute" class="text-center">
             <div class="container">
-                <div class="row">
+                <div  class="row">
                     <h2>Stuck and don't know where to go?</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-5">
-                        <p>Do you need to find your way going to places you'd </p>
-                        <p>like to go without the potential hassle of clogged </p>
-                        <p>   roads? Rerouting is what you're looking for!</p>
+                    <div id="reroute-body" class="col-lg-5">
+                        <p>Do you need to find your way going to places you'd like to go without the potential hassle of cloggedroads? Rerouting is what you're looking for!</p>
                         <br><br>
-                        <p>Routee provides highly advanced re-routing algorithms</p>
-                        <p>that can avoid nuisances on the road such as accidents,</p>
-                        <p> floods, constructions, heavy traffic, and many more!</p>
+                        <p>Routee provides highly advanced re-reouting algorithms that can avoid nuiances on the road such as accidents, floods, constructions, heavy traffic, and many more!</p>
                     </div>
                     <div class="col-lg-7">
                         <img id='avoid' src='img/avoid.png' alt='Failed to load image'>
