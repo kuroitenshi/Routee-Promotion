@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Raleway";
     color: #fff;
     background-color: #000;
 }
@@ -21,9 +21,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Lato";
     letter-spacing: 1px;
 }
 
@@ -342,14 +340,15 @@ body {
 }
 
 .about-section{
-    padding-top: 60px
+    padding: 100px 0;
 }
 
 .about-class{
-    width: 100%;    
-    color: #fff;
-    background: url(../img/about.JPG) no-repeat center center scroll;
-    background-color: #000;
+    display: table;
+    height: auto;
+    padding: 100px 0;
+    width: 100%;
+    background: url(../img/about.JPG);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

@@ -10,23 +10,14 @@
         <title>Routee</title>
         <link rel="shortcut icon" href = "img/logo.png">
         <!-- Bootstrap Core CSS -->
-        <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap.css" rel="stylesheet">
 
         <!-- Fonts -->
-        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href="font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+        <link href="css/fonts.css" type = "text/css" rel = "stylesheet">
 
         <!-- Custom Theme CSS -->
         <link href="css/grayscale.css" rel="stylesheet">
-        <style>
-            @font-face{
-                font-family: textbody;
-                src: url(fonts/Abeezee.otf);
-            }
-
-        </style>      
-
     </head>
 
     <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
@@ -48,16 +39,16 @@
                             <a href="#page-top"></a>
                         </li>					
                         <li class="page-scroll" >
-                            <a href="#about">About</a>
+                            <a href="#about"> <i class="fa fa-question"></i> <span class = "light">About Routee</span> </a>
                         </li>                    
                         <li class="page-scroll">
-                            <a href="#reroute">Re-Routing</a>
+                            <a href="#reroute"><i class="fa fa-road"></i> <span class = "light">Re-routing</span> </a>
                         </li>
                         <li class="page-scroll" id="contribute-toggle">
-                            <a href="#contribute">Contribute</a>
+                            <a href="#contribute"><i class="fa fa-pencil"></i> <span class = "light">Contribute</span></a>
                         </li>
                         <li class="page-scroll">
-                            <a href="#developers">Developers</a>
+                            <a href="#developers"><i class="fa fa-user"></i> <span class = "light">Developers</span></a>
                         </li>
                     </ul>
                 </div>                
@@ -86,7 +77,7 @@
             <section id="about" class="container about-section  text-center">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h2>What is Routee?</h2>
+                        <h1>What is Routee?</h1>
                         <p>Routee is a crowd-sourcing web application designed for drivers in the Philippines that experience the daily grind of  hectic road jams and hellish traffic. Routee is one of the budding web applications designed to assist in alleviating problems on the road but here are the reasons on why you should pick Routee:</p>
 
                         <div class="media">
@@ -94,7 +85,7 @@
                                 <img class="media-object" src="img/check1.png">
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Avert from being late to important occasions caused by clogged roads.</h4>
+                                <h3 class="media-heading">Avert from being late to important occasions caused by clogged roads.</h3>
                             </div>
                             <br>
                             <br>
@@ -102,7 +93,7 @@
                                 <img class="media-object" src="img/check1.png">
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Never be left out with what is currently happening on the road.</h4>
+                                <h3 class="media-heading">Never be left out with what is currently happening on the road.</h3>
                             </div>
                             <br>
                             <br>
@@ -110,7 +101,7 @@
                                 <img class="media-object" src="img/check1.png">
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Ignite your sense of citizenship by contributing for fellow drivers to see.</h4>
+                                <h3 class="media-heading">Ignite your sense of citizenship by contributing for fellow drivers to see.</h3>
                             </div>
                         </div>
                     </div>
