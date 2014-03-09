@@ -218,6 +218,7 @@
                         <h3> Joshua Cruz </h3>
                         <p class = "description">
                             Not only does Joshua Cruz share the name with 593 more people in the USA and more in the Philippines, he is also a blogger and an aspiring developer and designer. Motto is: Study hard, play harder. An avid gamer and frequently reads manga. 
+                            He is the mystery of the group. He is in charge of the overall design of Routee and its iconography. He does not show his face to the general public because the sunlight hurts his eyes.  
                         </p>
                     </div>                    
 
