@@ -194,7 +194,7 @@
             <div class="developer-section">
                 <div class="container">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h1>Who are we</h1>
+                        <h1>Meet the team</h1>
                     </div>
 
                     <div class = "col-lg-3">
@@ -210,7 +210,7 @@
                         <br><br>
                         <h3> Tim Rodriguez </h3>
                         <p class = "description">
-                            Tim is an aspiring mobile and web developer. UI/UX is also one of his interests. He wants to create something that would have a great impact in the society. He seems quiet at first, but once you get to know him, he has a lot to offer.
+                            Tim is an aspiring mobile and web developer. UI/UX is also one of his interests. He wants to create something that would have a great impact to society. He seems quiet at first, but once you get to know him, he has a lot to offer.
                         </p>
                     </div>
                     <div class = "col-lg-3">
