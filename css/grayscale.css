@@ -392,12 +392,16 @@ body {
 }
 
 .devImage{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 .description{
-    border-left: 1px #34495e solid;
-    padding-left: 1em;    
+    padding-left: 1em;  
+    font-size: 14px;  
+}
+
+#developers .h3{
+    font-size: 20px;
 }
 
 #reroute {
@@ -420,3 +424,4 @@ body {
 #reroute-body{
 	padding-top:65px;
 }
+

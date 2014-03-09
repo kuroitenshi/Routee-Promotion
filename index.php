@@ -194,39 +194,39 @@
             <div class="developer-section">
                 <div class="container">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h1>Developers</h1>
+                        <h1>Who are we</h1>
                     </div>
 
-                    <div class = "col-lg-5">
-                        <h3> Aldrich Gutierrez </h3>
+                    <div class = "col-lg-3">
                         <img class ="devImage" src="img/aldrich.png">
                         <br><br>
+                        <h3> Aldrich Gutierrez </h3>
                         <p class ="description">
-                            Aldrich is a cosplayer that lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. 
+                            Ever thought of living in the anime world? Well Aldrich Gutierrez certainly thought of that. A “shut in” the real world, a programmer in the professional world, a cosplayer in the cosplay world and a closet otaku blogger in the internet. Talk to him and you’ll certainly have the best delusional ride of your life.
                         </p>
                     </div>
-                    <div class = "col-lg-5 col-lg-offset-2">
-                        <h3> Timothy Rodriguez </h3>
+                    <div class = "col-lg-3">
                         <img class ="devImage" src = "img/tim.png">
                         <br><br>
+                        <h3> Tim Rodriguez </h3>
                         <p class = "description">
-                            Timothy is a blah blah blah. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum.
+                            Tim is an aspiring mobile and web developer. UI/UX is also one of his interests. He wants to create something that would have a great impact in the society. He seems quiet at first, but once you get to know him, he has a lot to offer.
                         </p>
                     </div>
-                    <div class = "col-lg-5">
-                        <h3> Joren Sorilla </h3>
+                    <div class = "col-lg-3">
                         <img class ="devImage" src = "img/joren.png">
                         <br><br>
+                        <h3> Joren Sorilla </h3>
                         <p class = "description">
-                            Joren is a blah blah blah. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum. lorem ipsum.
-                        </p>
+                            Joren spends most of his time playing MMOs, sleeping, and doing other interesting stuff in his room and rarely ever goes out. He’s a student in computer science inheriting his father’s passion for computers. He also loves instrumentals, likes to draw, collects figures, watch anime, and prefers fictional girls over real ones.
+                         </p>
                     </div>
-                    <div class = "col-lg-5 col-lg-offset-2">
-                        <h3> Joshua Cruz </h3>
+                    <div class = "col-lg-3">
                         <img class ="devImage" src = "img/joshua.png">
                         <br><br>
+                        <h3> Joshua Cruz </h3>
                         <p class = "description">
-                            Joren does not have a nice picture. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.Lorem ipsum.
+                            Not only does Joshua Cruz share the name with 593 more people in the USA and more in the Philippines, he is also a blogger and an aspiring developer and designer. Motto is: Study hard, play harder. An avid gamer and frequently reads manga. 
                         </p>
                     </div>                    
 
